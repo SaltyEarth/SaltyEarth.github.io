@@ -90,10 +90,10 @@
 
 下面是我给ING写的动机信（Figure 3），就运用了上面提到的结构，最终我得到了笔试的机会，但应该是内推+背景筛选+动机信+hr电话面试筛选过关的组合作用。
 
-![Figure 3](/SaltyEarth.github.io/_img/run-job-searching-3.png)
+![Figure 3](https://github.com/SaltyEarth/SaltyEarth.github.io/blob/main/_img/run-job-searching-3.png)
 
 {:.image-caption}
-*Figure 3, the cover ltter for ING IT class.*
+*Figure 3, the cover letter for ING IT class.*
 
 如果读书时候做了很多小组作业，作品集是比较容易准备的，我花了一天时间把硕士期间做过的项目写过的代码简单上传到github，写了一下介绍，再给把领英的project都贴上链接。其实在面试流程到达真正同领域的人之前是不太会有人看的，但是有github主页对搞技术的人来说显得比较专业呢。我觉得如果面试的岗位是data analyst这种技术要求不高的，不太需要github，反正都是会要做案例展现数据分析能力的。
 
@@ -103,7 +103,7 @@
 
 不要因为走投无路过于绝望就放低标准，判断一个岗位好不好，我是会从公司本身的价值，与我本人地理位置、背景匹配程度进行考察的。以下是当时做的记录：
 
-![Figure 4](/SaltyEarth.github.io/_img/run-job-searching-4.png)
+![Figure 4](https://github.com/SaltyEarth/SaltyEarth.github.io/blob/main/_img/run-job-searching-4.png)
 
 {:.image-caption}
 *Figure 4, companies and positions I applied.*
