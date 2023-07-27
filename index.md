@@ -1,5 +1,11 @@
-Here you can say lots of fun things about your site.
+About Me
 
-Maybe say a some things about yourself.
+- 是一粒盐，长毛象分身之一：[@yanerL@m.cmx.im](https://m.cmx.im/@yanerL)
 
-Or maybe what you plan to blog about.
+- 坐标荷兰，是找到工的快乐人
+
+- 开个博客整理旧日习作和人生轨迹
+
+- 填词、写诗复健
+
+- 喜欢港乐、耽美、观察流行动态
