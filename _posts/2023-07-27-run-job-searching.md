@@ -60,12 +60,12 @@
 
 从简历讲起。简历一页或者两页无所谓，我刚开始用的是如下的版式（Figure 1），后来向朋友学习，改成了一页两栏的样式（Figure 2），确实清晰了很多。我是用overleaf做的，使用了别人的模板（[AltaCV Template](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)），但word应该也能做到。
 
-![Figure 1](SaltyEarth/SaltyEarth.github.io/_img/run-job-searching-1.png)
+![Figure 1](/_img/run-job-searching-1.png)
 
 {:.image-caption}
 *Figure 1, résumé template before*
 
-![Figure 2](/SaltyEarth.github.io/_img/run-job-searching-2.png)
+![Figure 2](_img/run-job-searching-2.png)
 
 {:.image-caption}
 *Figure 2, résumé after*
@@ -90,7 +90,7 @@
 
 下面是我给ING写的动机信（Figure 3），就运用了上面提到的结构，最终我得到了笔试的机会，但应该是内推+背景筛选+动机信+hr电话面试筛选过关的组合作用。
 
-![Figure 3](/SaltyEarth.github.io/_img/run-job-searching-3.png)
+![Figure 3](_img/run-job-searching-3.png)
 
 {:.image-caption}
 *Figure 3, the cover ltter for ING IT class.*
@@ -103,7 +103,7 @@
 
 不要因为走投无路过于绝望就放低标准，判断一个岗位好不好，我是会从公司本身的价值，与我本人地理位置、背景匹配程度进行考察的。以下是当时做的记录：
 
-![Figure 4](/SaltyEarth.github.io/_img/run-job-searching-4.png)
+![Figure 4](/_img/run-job-searching-4.png)
 
 {:.image-caption}
 *Figure 4, companies and positions I applied.*
