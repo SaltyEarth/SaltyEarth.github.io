@@ -65,7 +65,7 @@
 {:.image-caption}
 *Figure 1, résumé template before.*
 
-![Figure 2](./img/run-job-searching-2.png)
+![Figure 2](https://github.com/SaltyEarth/SaltyEarth.github.io/assets/140745992/350ff79d-fa7a-4e7d-a83d-ed8362882792)
 
 {:.image-caption}
 *Figure 2, résumé after.*
@@ -90,7 +90,7 @@
 
 下面是我给ING写的动机信（Figure 3），就运用了上面提到的结构，最终我得到了笔试的机会，但应该是内推+背景筛选+动机信+hr电话面试筛选过关的组合作用。
 
-![Figure 3](./img/run-job-searching-3.png)
+![Figure 3](https://github.com/SaltyEarth/SaltyEarth.github.io/assets/140745992/73b28cbf-3072-4107-b380-8e8e936228d7)
 
 {:.image-caption}
 *Figure 3, the cover letter for ING IT class.*
@@ -103,8 +103,7 @@
 
 不要因为走投无路过于绝望就放低标准，判断一个岗位好不好，我是会从公司本身的价值，与我本人地理位置、背景匹配程度进行考察的。以下是当时做的记录：
 
-![Figure 4](./img/)
-    /img/run-job-searching-4.png)
+![Figure 4](https://github.com/SaltyEarth/SaltyEarth.github.io/assets/140745992/e1c01e71-6d72-401a-bfb2-494e4725621d)
 
 {:.image-caption}
 *Figure 4, companies and positions I applied.*
