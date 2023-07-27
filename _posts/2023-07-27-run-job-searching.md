@@ -68,7 +68,7 @@
 ![Figure 2](/SaltyEarth.github.io/_img/run-job-searching-2.png)
 
 {:.image-caption}
-*Figure 1, résumé after*
+*Figure 2, résumé after*
 
 现在回看，这个简历还不能说尽善尽美，但也够用了。我来分块讲一下注意事项：
 
