@@ -60,12 +60,12 @@
 
 从简历讲起。简历一页或者两页无所谓，我刚开始用的是如下的版式（Figure 1），后来向朋友学习，改成了一页两栏的样式（Figure 2），确实清晰了很多。我是用overleaf做的，使用了别人的模板（[AltaCV Template](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)），但word应该也能做到。
 
-![Figure 1](https://github.com/SaltyEarth/SaltyEarth.github.io/blob/f3d5b8353dea4ee0226d0ed3ce5990239e2ab6b6/_img/run-job-searching-1.png)
+![Figure 1](https://github.com/SaltyEarth/SaltyEarth.github.io/assets/140745992/e92c2c22-cea0-4af2-b9ce-9a635292a149)
 
 {:.image-caption}
 *Figure 1, résumé template before*
 
-![Figure 2](./SaltyEarth.github.io/_img/run-job-searching-1.png)
+![Figure 2](../_img/run-job-searching-2.png)
 
 {:.image-caption}
 *Figure 2, résumé after*
