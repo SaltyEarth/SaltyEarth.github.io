@@ -65,7 +65,7 @@
 {:.image-caption}
 *Figure 1, résumé template before*
 
-![Figure 2](https://github.com/SaltyEarth/SaltyEarth.github.io/blob/main/_img/run-job-searching-2.png)
+![Figure 2](./SaltyEarth.github.io/_img/run-job-searching-1.png)
 
 {:.image-caption}
 *Figure 2, résumé after*
