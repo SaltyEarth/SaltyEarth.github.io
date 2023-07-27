@@ -63,12 +63,12 @@
 ![Figure 1](https://github.com/SaltyEarth/SaltyEarth.github.io/assets/140745992/e92c2c22-cea0-4af2-b9ce-9a635292a149)
 
 {:.image-caption}
-*Figure 1, résumé template before*
+*Figure 1, résumé template before.*
 
 ![Figure 2](./img/run-job-searching-2.png)
 
 {:.image-caption}
-*Figure 2, résumé after*
+*Figure 2, résumé after.*
 
 现在回看，这个简历还不能说尽善尽美，但也够用了。我来分块讲一下注意事项：
 
@@ -103,7 +103,8 @@
 
 不要因为走投无路过于绝望就放低标准，判断一个岗位好不好，我是会从公司本身的价值，与我本人地理位置、背景匹配程度进行考察的。以下是当时做的记录：
 
-![Figure 4](./img/run-job-searching-4.png)
+![Figure 4](./img/)
+    /img/run-job-searching-4.png)
 
 {:.image-caption}
 *Figure 4, companies and positions I applied.*
