@@ -1,5 +1,4 @@
 ## 跑路经验 - 找工篇
-test
 
 工作了三个月了，一直拖延没有写找工的经验。现在当了三个月社畜，听同事讲招人的标准、谈论面试者，甚至自己也参与了面试别人，对职场有了更多的感悟，现在觉得可以好好写了。今天想动笔是因为突然想到，中国的社会是一个很容易失败的社会，我在荷兰找到第一份全职工，工作了两个月，已经可以过上体面的生活，当下的我可以想买什么买什么，不需要刻意攒钱也能攒下不少，可以自己攒钱去旅行，有养老金计划，有医疗保险所以可以做一直想做的牙齿矫正、不害怕生病。我的精神状态从上工以来就基本上都处于开心的波段，我有空也有钱探索新的事物，办公室文化很随意，同事们都很好笑。如果我还在中国，会是怎样一幅图景呢。我不可能会有独立的感觉，我会很努力，但仍然拥有不配感，不配拥有空闲，不配接受好意和好事降临，不配拥有爱，不配被喜欢。和也很想移民到荷兰的同事讲话，她说她两三年前就想要来荷兰了。我说我一步一步计划，从语言考试、申请学校、学习到工作，也花了三年才有如今的一切，她会到我这一步的。快乐的日子过着过着，会忘掉之前的艰难，既为了后来者，也为了我自己，我来写写我是如何一步一步实现跑路的计划的。这篇文为找工阶段。
 
@@ -61,12 +60,12 @@ test
 
 从简历讲起。简历一页或者两页无所谓，我刚开始用的是如下的版式（Figure 1），后来向朋友学习，改成了一页两栏的样式（Figure 2），确实清晰了很多。我是用overleaf做的，使用了别人的模板（[AltaCV Template](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)），但word应该也能做到。
 
-![Figure 1](SaltyEarth/SaltyEarth.github.io/_img/run-job-searching-1.png)
+![Figure 1](https://github.com/SaltyEarth/SaltyEarth.github.io/assets/140745992/e92c2c22-cea0-4af2-b9ce-9a635292a149)
 
 {:.image-caption}
 *Figure 1, résumé template before*
 
-![Figure 2](/SaltyEarth.github.io/_img/run-job-searching-2.png)
+![Figure 2](../_img/run-job-searching-2.png)
 
 {:.image-caption}
 *Figure 2, résumé after*
